@@ -1,0 +1,24 @@
+/*padding*/
+h1{color: brown;font-size: 40px;border: 10px dashed green;padding-right: 40px;padding-left: 80px;padding-top: 20px;padding-bottom: 30px;}
+/*RGB color*/
+h2{color:rgb(255, 55, 40,0.5)}
+p{font-size: 30px;color: blue;border: 5px solid black;}
+/*#3498db copy from flat ul color*/
+#top{background:#3498db;font-size: 18px;}
+.loop{color: black;padding: 30px;size:  100px 100px ;height: 500px;}
+/* .loop{background: green;color: black;padding: 10px;background-image: url(img/spinner1.gif);
+    background: size 100px 100px ;height: 500px;background-repeat: no-repeat;
+    background-position: center;background-attachment: fixed;} */
+.loop{background: green  url(img/spinner1.gif)  no-repeat center fixed;}
+
+/*Css Grouping*/
+h6,p,.loop{text-align: center;}
+/*border use---double red, deshed and also use margin,padding*/
+h3{border: 10px dotted blue;font-size: 50px;margin-top: 100px;margin-bottom: 100px;margin-left: 200px;margin-right: 200px;
+padding-left:20px ;;}
+/*use more color top,right.bottom,left*/
+h4{font-size: 50px;border-style: solid;border-color: green black red blueviolet;border-width: 20px;margin:20px 50px 20px 40px ;}
+/*center*/
+.less{background: #00f;width: 200px;height: 200px;margin: 20px auto;}
+/*height and width*/
+
